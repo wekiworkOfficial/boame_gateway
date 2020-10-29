@@ -1,0 +1,28 @@
+{
+    "services" : [
+        {
+            "name" : "cases",
+            "endpoint" : "http://localhost:5788/"
+        },
+
+        {
+            "name" : "library",
+            "endpoint" : "http://localhost:9816/"
+        },
+
+        {
+            "name" : "volunteer",
+            "endpoint" : "http://localhost:5913/"
+        },
+
+        {
+            "name" : "service",
+            "endpoint" : "http://localhost:8419/"
+        },
+
+        {
+            "name" : "counselor",
+            "endpoint" : "http://localhost:5343/"
+        }
+    ]
+}
